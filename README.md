@@ -1,5 +1,6 @@
-# Isma-Rustam.github.lo
-
+# Web application
+## Link to game:
+### https://isma-rustam.github.io/Isma-Rustam.github.lo/
 ## Project participants:
 ### Rustam Isma.
 ## Description:
